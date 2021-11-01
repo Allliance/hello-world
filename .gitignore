@@ -1,0 +1,4 @@
+.idea/
+helloworld/db.sqlite3
+helloworld/helloworld/__pycache__/
+helloworld/helloworldsayer/__pycache__/
